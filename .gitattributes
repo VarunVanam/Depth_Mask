@@ -1,0 +1,2 @@
+*.obj filter=lfs diff=lfs merge=lfs -text
+C:/Users/Vampire[[:space:]]Venem/Documents/GitHub/Depth_Mask/Depth_illusion01/Assets/57-estancia_comedor_obj/ filter=lfs diff=lfs merge=lfs -text
